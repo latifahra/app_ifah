@@ -7,5 +7,7 @@
 </head>
 <body>
     tambah data alat
+    nama alat 
+    <no class="seri"></no>
 </body>
 </html>
